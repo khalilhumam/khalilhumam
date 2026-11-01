@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#101d2b"/>
+<circle cx="1050" cy="160" r="300" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+<circle cx="1050" cy="160" r="220" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+<text x="100" y="150" fill="#b99a65" font-family="Arial,sans-serif" font-size="22" letter-spacing="6">PERSONAL PROFILE</text>
+<text x="100" y="300" fill="#ffffff" font-family="Arial,sans-serif" font-size="100" font-weight="700">Khalil Humam</text>
+<text x="105" y="390" fill="#b99a65" font-family="Arial,sans-serif" font-size="39">Building Institutions. Creating Impact.</text>
+<text x="105" y="520" fill="#aeb9c1" font-family="Arial,sans-serif" font-size="24">khalilhumam.com</text>
+</svg>
