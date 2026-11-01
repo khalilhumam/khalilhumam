@@ -1,40 +1,30 @@
-# KhalilHumam.com — GitHub Pages website
+# Khalil Humam
 
-A lightweight, responsive, single-page personal website built with plain HTML, CSS and JavaScript.
+### Executive | Institution Builder | Entrepreneur
 
-## Files
-- `index.html` — page content, SEO metadata and Person structured data
-- `style.css` — responsive design
-- `script.js` — mobile navigation and current year
-- `assets/` — favicon and social sharing graphic
+I am a professional with experience spanning executive leadership, international development, entrepreneurship, and institutional management.
 
-## Before publishing
-1. Add a professional portrait at `assets/profile.jpg` (recommended portrait crop, at least 1200px tall).
-2. Review every biography statement, especially the career timeline, degree names and certification.
-3. Confirm that the links to organizations and initiatives are current.
-4. If you want to publish an email address, add it yourself; the current site directs professional inquiries to LinkedIn.
+Currently, I serve as Executive Director of Ummat International Hospital in Kabul, Afghanistan, contributing to the development of a modern healthcare institution focused on patient care, medical excellence, and long-term impact.
 
-## Publish with GitHub Pages
-1. Create a GitHub repository, for example `khalilhumam`.
-2. Upload the contents of this folder to the repository root.
-3. In repository **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-4. In the Pages settings, enter `khalilhumam.com` as the custom domain.
-5. Configure DNS at your domain registrar:
-   - For the apex/root domain (`khalilhumam.com`), use the four A records and one AAAA record currently specified in GitHub's official custom-domain documentation.
-   - For `www`, create a CNAME record pointing to your GitHub Pages hostname (for example, `YOUR-USERNAME.github.io`).
-   - Remove conflicting old A, AAAA or CNAME records for the same host.
-6. Wait for DNS to propagate, then enable **Enforce HTTPS** in GitHub Pages settings.
+My professional journey has taken me across Afghanistan, Japan, and Canada, combining experience in public administration, international development, business, and healthcare leadership.
 
-GitHub's current instructions: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+I am also a **Regulated Canadian Immigration Consultant (RCIC)**, licensed in Canada since 2021, and the founder of technology and business initiatives, including ListBeam.
 
-## SEO checklist after launch
-- Verify `https://khalilhumam.com/` in Google Search Console.
-- Submit `https://khalilhumam.com/sitemap.xml`.
-- Add the website URL to LinkedIn and other professional profiles you control.
-- Publish substantive articles or project updates on your own site over time.
-- Keep your name, portrait, biography and professional links consistent.
+### Education
 
-## Notes
-- No paid theme, CMS, database, backend or third-party JavaScript library is required.
-- Google Fonts are loaded from Google Fonts; the site still works with system fonts if that service is unavailable.
-- The profile photo is intentionally not included. Add your own approved image as `assets/profile.jpg`.
+**Nagoya University, Japan**  
+Graduate Studies in International Development  
+
+### Areas of Interest
+
+- Healthcare leadership and institutional development
+- Entrepreneurship and business innovation
+- Technology and artificial intelligence
+- International development
+- Strategic management and organizational growth
+
+### Connect
+
+- **Website:** [khalilhumam.com](https://khalilhumam.com)
+- **LinkedIn:** [linkedin.com/in/khalilhumam](https://www.linkedin.com/in/khalilhumam/)
+- **Email:** [khalilhumam@gmail.com](mailto:khalilhumam@gmail.com)
